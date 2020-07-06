@@ -1,4 +1,4 @@
-= Tree hoper
+ = Tree hoper
 A little **bug** was walking trough the forest when __suddenly__ +
 he saw something very very bad.
 He didn't know what to do so **he** decided to ...
@@ -6,3 +6,8 @@ He didn't know what to do so **he** decided to ...
 Since he didn't know what to do, he just wrote lines. After all, that was the point, to write 
 lines to complete the task we'd given him. No wacky stories or heroic characters, just lines 
 in a file that may never be read, forgotten in the meanders of GitHub.
+
+As the creative bug he is he decied to do something anout just being a part of
+  a file thats never to be read. He thought to himself how could I be more 
+usful bug. all of a sudden like in a flash he was flooded with ideas as how
+to be more...
