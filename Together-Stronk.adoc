@@ -7,8 +7,16 @@ I set up a new droplet :
 * **root password** : r6!!Z*mQ&RaZL\
 
 
-Now you can login as your user :
+Now you can login as your user : (not anymore, only users and ssh keys)
 
 * **ssh maxime@git.enigmas.rocks**
 
+To do anything as root, use admin :
+```
+sudo su admin
+#password: 12345
+sudo systemctl status apache
+#or sudo whatever you want
+
+```
 
