@@ -6,3 +6,7 @@ He didn't know what to do so **he** decided to ...
 Since he didn't know what to do, he just wrote lines. After all, that was the point, to write 
 lines to complete the task we'd given him. No wacky stories or heroic characters, just lines 
 in a file that may never be read, forgotten in the meanders of GitHub.
+
+But a **guy** wanted to read what the _bug_ wrote. He decided to bring it to the **magician** of the village.
+It was a really hard work for _the magician_, he tried a lot of things but couldn't read it.
+Then, he said "**SUDOOOOOOO**" and it worked.  
