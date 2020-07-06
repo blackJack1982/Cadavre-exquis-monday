@@ -1,6 +1,7 @@
 = Together Strongk!?
 
 I set up a new droplet :
-* **ip** : 46.101.143.6
-* **root password** : r6!!Z*mQ&RaZL
-* 
+*   **ip** : 46.101.143.6
+*   **root password** : r6!!Z*mQ&RaZL
+
+
