@@ -2,6 +2,7 @@
 
 I set up a new droplet :
 
+* **user** : root
 * **ip** : 46.101.143.6
 * **root password** : r6!!Z*mQ&RaZL
 
