@@ -4,6 +4,11 @@ I set up a new droplet :
 
 * **user** : root
 * **ip** : 46.101.143.6
-* **root password** : r6!!Z*mQ&RaZL
+* **root password** : r6!!Z*mQ&RaZL\
+
+
+Now you can login as your user :
+
+* **ssh maxime@git.enigmas.rocks**
 
 
